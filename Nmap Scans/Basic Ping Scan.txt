@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sn 192.168.56.1/24" profile_name="" scanner="nmap" start="1754317960" startstr="Mon Aug  4 15:32:40 2025" version="7.97" xmloutputversion="1.04"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-04 15:32 +0100
+Nmap scan report for 192.168.56.1
+Host is up.
+Nmap done: 256 IP addresses (1 host up) scanned in 39.25 seconds
+</output><host comment=""><status state="up"></status><address addr="192.168.56.1" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><runstats><finished time="1754317999" timestr="Mon Aug  4 15:33:19 2025"></finished><hosts up="1" down="255" total="256"></hosts></runstats></nmaprun>
